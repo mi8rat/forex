@@ -55,16 +55,3 @@ The original blog post about
 **sct**
 by Ted Unangst:
 [https://www.tedunangst.com/flak/post/sct-set-color-temperature](https://www.tedunangst.com/flak/post/sct-set-color-temperature)
-
-# HISTORY
-
-The
-**sct**
-utility was written by
-Ted Unangst &lt;[tedu@OpenBSD.org](mailto:tedu@OpenBSD.org)&gt;.
-
-# AUTHORS
-
-This
-manual page was written by
-Mateusz Piotrowski &lt;[0mp@FreeBSD.org](mailto:0mp@FreeBSD.org)&gt;.
